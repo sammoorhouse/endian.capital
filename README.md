@@ -1,2 +1,1 @@
-# endian.capital
-website for endian.capital
+info@endian.capital
